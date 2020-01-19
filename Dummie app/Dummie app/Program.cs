@@ -10,6 +10,9 @@ namespace Dummie_app
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Im writting something new");
+            int myint = 2;
+            Console.WriteLine(myint.ToString());
         }
     }
 }
